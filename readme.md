@@ -1,5 +1,5 @@
-## heyooo people 
+## whats popping git
 
-soooo its gidi again oo
+this is coming from 'dev-gidi'
 
 i'm adding this from 'feature-branch' 
